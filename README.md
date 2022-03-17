@@ -15,8 +15,8 @@ The Data Viz Web Application is accessible here --> [Apple Stock Price Visualise
 
 ## Application Information
 This application is developed using [StreamLit](https://streamlit.io/). It is an open source Web Application based on Python. Streamlit turns data scripts into shareable web apps in minutes.
-<em>Dataset used in the following Application is taken from [Kaggle](https://www.kaggle.com/kalilurrahman/apple-stock-data-live-and-latest-from-ipo-date).</em>
-
+<em>Dataset used in the following Application is taken from [Kaggle](https://www.kaggle.com/kalilurrahman/apple-stock-data-live-and-latest-from-ipo-date).</em><br><br>
+<B>Really enjoyed my Apple stock app- wanted to let you know it was included in Weekly Roundup on StreamLit community forum: https://discuss.streamlit.io/t/weekly-roundup-pathology-diagnostics-real-time-data-science-dashboards-wordle-apps-and-more/21471</B>
 
 ## Installation of StreamLit 
 You need to install StreamLit Library to run this application on your local machine. You can use the PIP command given below to install the framework and verify the installation.
