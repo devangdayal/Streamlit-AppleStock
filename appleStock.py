@@ -11,8 +11,8 @@ st.set_page_config(page_title='EDA - Apple Stock Prices',
 
 """
 [![Star](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gitHub.com/devangdayal/Medium)
-&nbsp[![Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/devangdayal)
-&nbsp[![Follow](https://img.shields.io/twitter/follow/devangdayal?style=social)](https://www.twitter.com/devangdayal)
+[![Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/devangdayal)
+[![Follow](https://img.shields.io/twitter/follow/devangdayal?style=social)](https://www.twitter.com/devangdayal)
 
 # Apple Stock Price Visualisation WebApp
 
