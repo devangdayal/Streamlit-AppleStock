@@ -5,7 +5,6 @@
 <div>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/Made%20with-StreamLit-red?style=for-the-badge&logo=StreamLit" alt="streamlit" />
-<img src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
 </div>
 
 ## Live Web Application 
